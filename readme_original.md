@@ -1,9 +1,7 @@
-## Overview
+## 변경 내용 확인하기
 
-This project comes from the Alchemy University - Blockchain Developer bootcamp. It has to be
-done at the end of the week 1.
+오리지널 md 변경 내용 확인하기
 
-Here is the original readme content.
 
 ## ECDSA Node
 
